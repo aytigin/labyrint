@@ -1,0 +1,2 @@
+# labyrint
+Objektorientert Programmering skoleprosjekt
